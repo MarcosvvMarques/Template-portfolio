@@ -2,7 +2,7 @@
 
 > Um assistente inteligente baseado em LLM e RAG para sanar dúvidas técnicas sobre o livro oficial Pro Git, otimizado para desenvolvedores e estudantes de engenharia de software.
 
-**Live demo:** [] 
+**Live demo:** [https://template-portfolio-hyrpnyeqj8efxkpsmx82ac.streamlit.app/]
 
 ## Problem statement
 
